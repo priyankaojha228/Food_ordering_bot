@@ -1,0 +1,18 @@
+{
+    "name": "practice",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "8b70d3b0-1adb-11ec-a0d6-e564f9cc7800",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Priyanka\\Desktop\\practice_bot\\practice.bot",
+    "overrides": null
+}
